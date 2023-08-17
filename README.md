@@ -8,10 +8,7 @@
   <p align="center">
     <img src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/ARL.png" />
   </p>
-  <p align="center">LANGS</p>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=c,python,js" />
-  </p>
+ 
   <p align="center">EDITOR</p>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=vim,neovim" />
@@ -28,6 +25,11 @@
 <!--
 COMMENT
 **bendikMichal/bendikMichal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">LANGS</p>
+<p align="center">
+	<img src="https://skillicons.dev/icons?i=c,python,js" />
+</p>
+
 <p align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bendikMichal&langs_count=8&count_private=true&theme=radical&show_icons=true">
