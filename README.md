@@ -4,12 +4,12 @@
 </h3>
 
 <h1 align="center"></h1>
-  <p align="center">OS</p>
+  <p align="center">ARCH btw</p>
   <p align="center">
     <img src="https://raw.githubusercontent.com/EgoistDeveloper/operating-system-logos/master/src/48x48/ARL.png" />
   </p>
  
-  <p align="center">EDITOR</p>
+  <p align="center">Blazingly fast</p>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=vim,neovim" />
   </p>
